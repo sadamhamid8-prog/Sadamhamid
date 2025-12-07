@@ -1,0 +1,5 @@
+requests
+pandas
+python-telegram-bot
+ta
+schedule
